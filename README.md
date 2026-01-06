@@ -4,6 +4,8 @@ Ce dépôt contient un notebook consacré au clustering, c’est-à-dire à l’
 
 L’objectif est méthodologique : comprendre, comparer et interpréter différentes approches de segmentation, plutôt que produire un clustering “magique” sans justification.
 
+-> pip install numpy pandas scikit-learn matplotlib seaborn
+
 ### 📌 Notebook — Clustering (clustering.ipynb)
 #### 🎯 Objectif
 
